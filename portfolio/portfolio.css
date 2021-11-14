@@ -1,0 +1,58 @@
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 45px;
+}
+h1 {
+    justify-content: center;
+    display: flex;
+    font-size: 40px;
+}
+#aboutMe {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
+#aboutMeText {
+    display: flex;
+    font-size: 27px;
+    text-align: center;
+    /* border: solid black; */
+    max-width: 1000px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#langLogos {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+#htmlLogo {
+    height: 60px;
+    width: 60px;
+}
+#cssLogo {
+    height: 60px;
+    width: 44px;
+}
+#projectsGallery {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#email {
+    justify-content: center;
+    display: flex;
+    font-size: 23px;
+}
+#contactMe {
+    margin-bottom: 0px;
+}
+#mediaIcons {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
